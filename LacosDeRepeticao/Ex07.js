@@ -63,6 +63,7 @@ if(numtabuada == 1){
         i++;
         i++;
         i++;
+        i++;
     }
 }else if(numtabuada == 9){
     for (let i = 0; i <= 90; i++) {
@@ -76,11 +77,18 @@ if(numtabuada == 1){
         i++;
         i++;
         i++;
-        i++;
     }
 }else if(numtabuada == 10){
     for (let i = 0; i <= 100; i++) {
         console.log(i);
+        i++;
+        i++;
+        i++;
+        i++;
+        i++;
+        i++;
+        i++;
+        i++;
         i++;
     }
 }
